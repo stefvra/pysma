@@ -6,7 +6,7 @@ URL_LOGGER = "/dyn/getLogger.json"
 URL_DASH_LOGGER = "/dyn/getDashLogger.json"
 URL_DASH_VALUES = "/dyn/getDashValues.json"
 
-USERS = {"user": "usr", "installer": "istl"}
+USERS = {"user": "usr", "installer": "istl", "Gebruiker": "Gebruiker"}
 
 DEFAULT_TIMEOUT = 15
 
